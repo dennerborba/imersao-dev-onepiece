@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.
 
 1. **Clonar o repositório**: 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/dennerborba/imersao-dev-onepiece.git
 2. **Abra o arquivo index.html**; Abra o arquivo e você poderá pesquisar pelos membros dos Chapéus de Palha diretamente de seu navegador favorito.
 
 ## Observações
